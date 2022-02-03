@@ -3,7 +3,7 @@
 I'm Julio and I've currently worked as Web/Mobile Developer for 10 years.
 
 #### About me
-- 🔭 I’m currently working [Hapmed](https://play.google.com/store/apps/details?id=br.com.hapvida.hapmed) mobile app built-in React Native.
+- 🔭 I’m currently working on the [Hapmed](https://play.google.com/store/apps/details?id=br.com.hapvida.hapmed) mobile app built-in React Native.
 - 🌱 I’m currently learning NextJS and Swoole PHP.
 - Some of my side projects is [Busao da Hora App](https://play.google.com/store/apps/details?id=br.com.busaodahora.fortaleza) and [My Cash Register App](https://play.google.com/store/apps/details?id=com.mycashregister).
 - 💬 I have experience with that stack: PHP, Javascript, Typescript, HTML, and CSS.

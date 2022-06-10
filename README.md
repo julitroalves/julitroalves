@@ -1,6 +1,6 @@
 ### Hi guys, welcome 👋
 
-I'm Julio and I've currently worked as Web/Mobile Developer for 10 years.
+I'm Julio and I've been working as a Full stack Developer for 10 years.
 
 #### About me
 - 🔭 I’m currently working on the [Hapmed](https://play.google.com/store/apps/details?id=br.com.hapvida.hapmed) mobile app built-in React Native.
